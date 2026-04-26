@@ -1,0 +1,6 @@
+# Compiled binaries
+First
+struct
+struct_pointer
+*.out
+*.o
